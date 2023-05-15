@@ -1,0 +1,189 @@
+{
+  "identifier" : "DEFAULT_COMPANY_TYPES",
+  "elements" : [ {
+    "identifier" : "PRIVATE",
+    "value" : {
+      "translations" : {
+        "en" : {
+          "label" : "Privateee",
+          "extra" : {
+            "description" : "A company whose shares are not traded on a stock market."
+          }
+        },
+        "fr" : {
+          "label" : "Privée",
+          "extra" : {
+            "description" : "Une société dont les actions ne sont pas négociées sur un marché boursier."
+          }
+        },
+        "nl" : {
+          "label" : "Privé",
+          "extra" : {
+            "description" : "In een private onderneming is het kapitaal in handen van private kapitaalverstrekkers."
+          }
+        },
+        "de" : {
+          "label" : "Privat",
+          "extra" : {
+            "description" : "Ein Unternehmen, dessen Aktien nicht an der Börse gehandelt werden."
+          }
+        },
+        "es" : {
+          "label" : "Privado",
+          "extra" : {
+            "description" : "Empresa cuyas acciones no cotizan en bolsa."
+          }
+        }
+      },
+      "fallbackLanguage" : "en"
+    }
+  }, {
+    "identifier" : "PUBLICLY_LISTED",
+    "value" : {
+      "translations" : {
+        "en" : {
+          "label" : "Listed",
+          "extra" : {
+            "description" : "A company whose shares can be traded on a country's main stock market."
+          }
+        },
+        "fr" : {
+          "label" : "Cotée en bourse",
+          "extra" : {
+            "description" : "Une entreprise dont les actions peuvent être négociées sur le principal marché boursier d'un pays."
+          }
+        },
+        "nl" : {
+          "label" : "Beursgenoteerd",
+          "extra" : {
+            "description" : "Een bedrijf heeft een beursnotering wanneer aandelen in dat bedrijf verhandeld worden op een aandelenbeurs."
+          }
+        },
+        "de" : {
+          "label" : "Börsennotiert",
+          "extra" : {
+            "description" : "Ein Unternehmen, dessen Aktien an den Hauptbörsen eines Landes gehandelt werden können."
+          }
+        },
+        "es" : {
+          "label" : "Listado",
+          "extra" : {
+            "description" : "Una empresa cuyas acciones pueden negociarse en el principal mercado bursátil de un país."
+          }
+        }
+      },
+      "fallbackLanguage" : "en"
+    }
+  }, {
+    "identifier" : "PUBLIC_BODY",
+    "value" : {
+      "translations" : {
+        "en" : {
+          "label" : "Public body",
+          "extra" : {
+            "description" : "A body is an organized group of people who deal with something officially."
+          }
+        },
+        "fr" : {
+          "label" : "Établissement public",
+          "extra" : {
+            "description" : "Une entité est un groupe organisé de personnes qui s'occupent officiellement de quelque chose."
+          }
+        },
+        "nl" : {
+          "label" : "Openbare instantie",
+          "extra" : {
+            "description" : "Een openbare instantie is een instelling die een openbare dienst verleent in het gebouw en grotendeels gefinancierd of beheerd wordt door een overheidsinstelling."
+          }
+        },
+        "de" : {
+          "label" : "Öffentliche Einrichtung",
+          "extra" : {
+            "description" : "Eine Körperschaft ist eine organisierte Gruppe von Personen, die sich offiziell mit etwas beschäftigt."
+          }
+        },
+        "es" : {
+          "label" : "Ente público",
+          "extra" : {
+            "description" : "Un organismo es un grupo organizado de personas que se ocupan de algo oficialmente."
+          }
+        }
+      },
+      "fallbackLanguage" : "en"
+    }
+  }, {
+    "identifier" : "REGULATED",
+    "value" : {
+      "translations" : {
+        "en" : {
+          "label" : "Regulated",
+          "extra" : {
+            "description" : "A company that is controlled by government rules."
+          }
+        },
+        "fr" : {
+          "label" : "Régulée",
+          "extra" : {
+            "description" : "Une entreprise régie par des règles gouvernementales."
+          }
+        },
+        "nl" : {
+          "label" : "Gereguleerd",
+          "extra" : {
+            "description" : "Een bedrijf dat zich moet houden aan strikte overheidsregels."
+          }
+        },
+        "de" : {
+          "label" : "Reguliert",
+          "extra" : {
+            "description" : "Ein, Unternehmen, das staatlichen Regulierungen unterliegt."
+          }
+        },
+        "es" : {
+          "label" : "Regulado",
+          "extra" : {
+            "description" : "Una empresa controlada por normas gubernamentales."
+          }
+        }
+      },
+      "fallbackLanguage" : "en"
+    }
+  }, {
+    "identifier" : "STATE_OWNED",
+    "value" : {
+      "translations" : {
+        "en" : {
+          "label" : "State-owned",
+          "extra" : {
+            "description" : "A state-owned enterprise is a legal entity that is created by a government in order to partake in commercial activities on the government's behalf."
+          }
+        },
+        "fr" : {
+          "label" : "Entreprise publique",
+          "extra" : {
+            "description" : "Une entreprise publique est une entité juridique créée par un gouvernement afin de participer à des activités commerciales pour le compte de ce dernier."
+          }
+        },
+        "nl" : {
+          "label" : "Staatsonderneming",
+          "extra" : {
+            "description" : "Een staatsbedrijf of overheidsbedrijf is een bedrijf dat in handen is van de overheid."
+          }
+        },
+        "de" : {
+          "label" : "Staatlich",
+          "extra" : {
+            "description" : "Ein dem Staat gehörenden Unternehmen ist eine juristische Person, die von einer Regierung gegründet wurde, um wirtschaftliche Aktivitäten zugunsten des Staates zu entfalten."
+          }
+        },
+        "es" : {
+          "label" : "De propiedad estatal",
+          "extra" : {
+            "description" : "Una empresa estatal es una entidad jurídica creada por un gobierno para realizar actividades comerciales en su nombre."
+          }
+        }
+      },
+      "fallbackLanguage" : "en"
+    }
+  } ]
+}
